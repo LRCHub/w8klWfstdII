@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ないの。",
+  "base_artist": "yama",
+  "createdAt": "2026-02-08T05:07:06.380714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ないの。 -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+      "artist": "Yama",
+      "has_synced": true,
+      "path": "select/01_ないの。_-the_meaning_of_life_TOUR_2022_Live_at_Zepp_DiverCity-_Yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ないの。",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/02_ないの。_yama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "04こんなはずじゃ…ないの…",
+      "artist": "See you.",
+      "has_synced": true,
+      "path": "select/03_04こんなはずじゃ...ないの..._See_you..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ないの。",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_ないの。_yama.txt"
+    }
+  ]
+}
